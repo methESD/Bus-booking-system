@@ -1,1 +1,1 @@
-# Inventory Microservice - Buyers
+# Inventory Microservice
