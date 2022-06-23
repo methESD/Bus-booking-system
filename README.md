@@ -1,1 +1,1 @@
-# Bus-booking-system
+# Inventory Microservice - Buyers
